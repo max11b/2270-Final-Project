@@ -6,7 +6,7 @@ This project implements a Red-Black Tree (RBT) to create a real-time leaderboard
 
 ## Short Explanation of the Data Structure
 
-A Red-Black Tree is a type of self-balancing binary search tree that ensures logarithmic time complexity for operations like insertion, deletion, and search. The key properties of a Red-Black Tree are:
+A **Red-Black Tree"" is a type of self-balancing binary search tree that ensures logarithmic time complexity for operations like insertion, deletion, and search. The key properties of a Red-Black Tree are:
 
 Node Colors: Each node is either red or black.
 
