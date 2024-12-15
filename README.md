@@ -84,8 +84,8 @@ Rank of player with score 150: 2
 
 **Top-k Query**:
 
-Top 2 players:
+```Top 2 players:
 Player ID: 2, Score: 200
-Player ID: 3, Score: 150
+Player ID: 3, Score: 150```
 
 
