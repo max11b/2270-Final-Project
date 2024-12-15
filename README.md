@@ -37,10 +37,6 @@ The leaderboard supports the following key operations:
 ## Instructions to Run the Project
 ### Prerequisites
 
-**C++ Compiler**: Ensure you have a C++ compiler installed, such as g++.
-
-**Development Environment**: Use any code editor or IDE like Visual Studio Code, CLion, or a simple text editor with terminal access.
-
 Steps to Compile and Run
 
 **Clone or Download the Project**:
