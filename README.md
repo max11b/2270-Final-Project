@@ -48,14 +48,14 @@ Steps to Compile and Run
 Clone the repository or download the project folder.
 
 **Navigate to the Project Directory**:
-
+```
 cd <project-directory>
-
+```
 **Compile the Code**:
 Use the g++ compiler to compile the program:
-
+```
 g++ -o leaderboard leaderboard_rbt.cpp
-
+```
 **Run the Executable**:
 Execute the compiled program:
 ```
