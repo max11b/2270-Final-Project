@@ -58,8 +58,9 @@ g++ -o leaderboard leaderboard_rbt.cpp
 
 **Run the Executable**:
 Execute the compiled program:
-
-```./leaderboard
+```
+./leaderboard
+```
 
 ### Sample Outputs
 
