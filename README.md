@@ -80,9 +80,9 @@ Sample input/output interaction from the program:
 **Inserted players**: Player 1 (Score: 100), Player 2 (Score: 200), Player 3 (Score: 150).
 
 **Rank Query**:
-
+```
 Rank of player with score 150: 2
-
+```
 **Top-k Query**:
 ```
 Top 2 players:
